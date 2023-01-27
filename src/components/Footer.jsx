@@ -9,7 +9,7 @@ export const Footer = () => {
                 <h1 className="footer_title">DGDev</h1>
                  <ul className="footer_list">
                         <li>
-                            <a href="#home" className="footer_link">Inicio</a>
+                            <a href="#home" className="footer_link">Sobre mí</a>
                         </li>
                         <li>
                             <a href="#technicallevels" className="footer_link">Tecnologías</a>

@@ -19,7 +19,6 @@ export const Qualification = () => {
 
                 </Col>
             </Row>
-
             <div className="qualification_container container">
                 <div className="qualification_tabs">
                     <div className={toggleState === 1 ? "qualification_button qualification_active button-flex" : "qualification_button button--flex" }  onClick={() => toggleTab(2)}>
@@ -28,7 +27,7 @@ export const Qualification = () => {
                     </div>
                         <div className={toggleState === 2 ? "qualification_button qualification_active button-flex" : "qualification_button button--flex"} onClick={() => toggleTab(1)}>
                             <i className="uil uil-briefcase-alt qualification_icon"> </i>
-                            Education
+                            Educación
                         </div>
                 </div>
                 <div className="qualification_sections">

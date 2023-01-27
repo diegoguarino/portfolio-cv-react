@@ -1,19 +1,19 @@
 /* Custom Fonts*/
 
 @font-face{
-  font-family: Centra;
-  src: url("./assets/fonts/CentraNo2-Bold.ttf");
+  font-family: 'Centra';
+  src: url('./assets/fonts/CentraNo2-Bold.ttf') format('ttf');
   font-weight: 700;
 }
 @font-face{
-  font-family: Centra;
-  src: url("./assets/fonts/CentraNo2-Book.ttf");
+  font-family: 'Centra';
+  src: url('./assets/fonts/CentraNo2-Book.ttf') format('ttf');
   font-weight: 400;
 }
 
 @font-face{
-  font-family: Centra;
-  src: url("./assets/fonts/CentraNo2-Medium.ttf");
+  font-family: 'Centra';
+  src: url('./assets/fonts/CentraNo2-Medium.ttf') format('ttf');
   font-weight: 500;
 }
 
@@ -500,7 +500,7 @@ button > a:hover{
   height: 100%;
   margin-top: -50%;
   background-color: #727272;
-  tansform: translate(6px, -7px);
+  transform: translate(6px, -7px);
 }
 
 /* Projects */

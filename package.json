@@ -1,6 +1,6 @@
 {
-  "homepage": "https://nxelia99.github.io/Portfolio/",
-  "name": "portfolio",
+  "homepage": "https://portfolio-cv-diegoguarinodev.netlify.app/",
+  "name": "portfolio-cv",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
