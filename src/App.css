@@ -421,8 +421,8 @@ button > a:hover{
 .qualification_tabs{
   display: flex;
   justify-content: center;
-  margin-bottom: 5%;
-  margin-top: 5%;
+  margin-bottom: 1%;
+  margin-top: 1%;
 }
 
 .section_subtitle{
@@ -507,7 +507,7 @@ button > a:hover{
 /* Projects */
 
 .Projects{
-  margin: 5% auto;
+  margin: 1% auto;
   width: 80%;
 }
 

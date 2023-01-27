@@ -42,7 +42,6 @@ export const Projects = () => {
                 </Col>   
                  <Col col={12} xl={4} md={6} >   
                     <img src={headerImg}  width={250} height={400} alt="Header image"/>
-
                 </Col>
             </Row>
                 <div className="projects">
