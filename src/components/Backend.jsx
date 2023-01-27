@@ -1,4 +1,4 @@
-import React from "react";
+
 export const Backend = () => {
     return(
         <div className="skills_content m-auto align-items-center justify-content-center">
@@ -6,20 +6,14 @@ export const Backend = () => {
             <div className="skills_box">
                 <div className="skills_group">
                     <div className="skills_data">
-                        <i className='bx bxl-java'></i>
+                        <i className='bx bxl-php'></i>
 
                         <div>
                             <h5 className="skills_name">PHP</h5>
                         </div>
                     </div>
 
-                    <div className="skills_data">
-                        <i className='bx bxl-python'></i>
-
-                        <div>
-                            <h5 className="skills_name">Laravel</h5>
-                        </div>
-                    </div>
+                    {/* laravel */}
 
                     <div className="skills_data">
                         <i className='bx bxl-nodejs'></i>
@@ -37,9 +31,9 @@ export const Backend = () => {
                     </div>
 
                     <div className="skills_data">
-                        <i className='bx bxl-django'></i>
+                        <i className='bx bxl-angular'></i>
                         <div>
-                            <h5 className="skills_name">Ajax</h5>
+                            <h5 className="skills_name">Angular</h5>
                         </div>
                     </div>
 

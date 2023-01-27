@@ -44,7 +44,7 @@ export const Banner = () => {
                 <Row className="align-items-center">
                     <Col xs={12} md={6} xl={7}>
                         <h1>{"Hola soy Diego,   "}<span className="wrap">{text}</span> </h1>
-                        <p>Soy un Desarrollador Web Full Stack centrado en la creación de sitios web y aplicaciones que conducen al éxito del producto en general.</p>
+                        <p>Soy un Junior Developer centrado en la creación de sitios web y aplicaciones que conducen al éxito del producto en general.</p>
                         <div className="buttons">
                             <button className="download"><a download="Noelia-CV-Eng&Esp" href={CV}>Descarga mi CV (Esp)</a></button>
                             <button onClick={()=> console.log('connect')}><a href="#Contact">Contáctame!<ArrowRightCircle size={25} /></a></button>

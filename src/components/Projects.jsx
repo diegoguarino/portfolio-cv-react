@@ -1,8 +1,9 @@
 import {Container, Row, Col} from "react-bootstrap";
 import React, {useState} from 'react';
-import image1 from '../assets/img/pokedex.JPG';
-import image2 from '../assets/img/projImg2 (2).jpg';
-import image3 from '../assets/img/djangoapp.jpg';
+import image1 from '../assets/img/crm-parcial.png';
+import image2 from '../assets/img/citas-parcial.png';
+import image3 from '../assets/img/cotizado.png';
+import image4 from '../assets/img/gastos-intermedio.png';
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import headerImg from "../assets/img/avtarprojects.png";
@@ -48,48 +49,64 @@ export const Projects = () => {
                     <Carousel responsive={responsive} infinite={true} className="project-slider">
                             <div className="item align-items-center mt-2 m-auto justify-content-center">
                                 <div className="projectcards card align-items-center m-auto">
-                                    <p>Pokedex Project</p>
+                                    <p>CRM - React</p>
                                     <img src={image1} alt="Pokedex project icon"/>
                                     <div className="technologies">
-                                        <h6>Technologies:</h6>
+                                        <h6>Tecnologías:</h6>
                                         <p>
-                                            Javascript, HTML and CSS
+                                            React Router DOM, JSON Server - Loader, Action
                                         </p>
                                         <div className="icons">
-                                            <a href="https://nxelia99.github.io/Pokedex/" target="_blank"> <i className='bx bx-link-external' ></i></a>
-                                            <a href="https://github.com/nxelia99/Pokedex" target="_blank"><i className='bx bxl-github'></i></a>
+                                            <a href="https://crm-react-diegoguarinodev.netlify.app/clientes/nuevo" target="_blank"> <i className='bx bx-link-external' ></i></a>
+                                            <a href="https://github.com/diegoguarino/crm-React" target="_blank"><i className='bx bxl-github'></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div className="item align-items-center mt-2 m-auto justify-content-center">
                                 <div className="projectcards card align-items-center m-auto">
-                                        <p>To Do List App Django</p>
+                                        <p>CRIPTOS - React</p>
                                         <img src={image3} className="djangoimg" alt="Django project icon"/>
                                         <div className="technologies">
-                                            <h6>Technologies:</h6>
+                                            <h6>Tecnologías:</h6>
                                             <p>
-                                                Javascript, React.JS, Laravel & PHP
+                                                React, API - Styled Components, Custom Hooks
                                             </p>
                                             <div className="icons">
-                                                <a href="https://djangoToDo.nxelia99.repl.co" target="_blank"> <i className='bx bx-link-external' ></i></a>
-                                                <a href="https://github.com/nxelia99/DjangoToDoListApp" target="_blank"><i className='bx bxl-github'></i></a>
+                                                <a href="https://criptos-react-diegoguarinodev.netlify.app/" target="_blank"> <i className='bx bx-link-external' ></i></a>
+                                                <a href="https://github.com/diegoguarino/criptos-React" target="_blank"><i className='bx bxl-github'></i></a>
                                             </div>
                                         </div>
                                     </div>
                             </div>
                             <div className="item align-items-center mt-2 m-auto justify-content-center align-items-center m-auto">
                                 <div className="projectcards card align-items-center m-auto">
-                                    <p>Frontend Project</p>
+                                    <p>CITAS - React</p>
                                     <img src={image2} alt="Frontrend project"/>
                                     <div className="technologies colin">
-                                        <h6>Technologies:</h6>
+                                        <h6>Tecnologías:</h6>
                                         <p>
-                                            HTML and CSS
+                                            React JS, Vite TailwindCSS - Hooks, Events
                                         </p>
                                         <div className="icons">
-                                            <a href="https://nxelia99.github.io/collintripsweb/" target="_blank"> <i className='bx bx-link-external' ></i></a>
-                                            <a href="https://github.com/nxelia99/collintripsweb" target="_blank"><i className='bx bxl-github'></i></a>
+                                            <a href="https://citas-react-diegoguarinodev.netlify.app/" target="_blank"> <i className='bx bx-link-external' ></i></a>
+                                            <a href="https://github.com/diegoguarino/citas-React" target="_blank"><i className='bx bxl-github'></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="item align-items-center mt-2 m-auto justify-content-center align-items-center m-auto">
+                                <div className="projectcards card align-items-center m-auto">
+                                    <p>GASTOS - React</p>
+                                    <img src={image4} alt="Frontrend project"/>
+                                    <div className="technologies colin">
+                                        <h6>Tecnologías:</h6>
+                                        <p>
+                                            React JS, Vite - LocalStorage, Modal, Swipe 
+                                        </p>
+                                        <div className="icons">
+                                            <a href="https://control-gastos-diegoguarinodev.netlify.app/" target="_blank"> <i className='bx bx-link-external' ></i></a>
+                                            <a href="https://github.com/diegoguarino/control-gastos-React" target="_blank"><i className='bx bxl-github'></i></a>
                                         </div>
                                     </div>
                                 </div>

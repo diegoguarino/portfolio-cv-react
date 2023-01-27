@@ -48,7 +48,7 @@ export const NavBar = () => {
                          <div className="social-icon">
                             <a href="https://www.linkedin.com/in/diego-guarino-018667252/" target="_blank"><img src={navIcon1} alt="LinkedIn icon" /></a>
                             <a href="https://twitter.com/DiegoGuarinoDev" target="_blank"><img src={navIcon2} alt="Twitter icon" /></a>
-                            <a href="https://www.tiktok.com/@diegoguarino.dev" target="_blank"><img src={navIcon3} alt="Tiktok icon" /></a>
+                            <a href="https://github.com/diegoguarino" target="_blank"><img src={navIcon3} alt="Tiktok icon" /></a>
                          </div>
 
                         </span>
