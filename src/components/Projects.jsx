@@ -131,7 +131,7 @@ export const Projects = () => {
                             </div>
                             <div className="item align-items-center mt-2 m-auto justify-content-center align-items-center m-auto">
                                 <div className="projectcards card align-items-center m-auto">
-                                    <p>CLIMA - React</p>
+                                    <p>CLIMAS - React</p>
                                     <img src={image6} alt="Frontrend project"/>
                                     <div className="technologies colin">
                                         <h6>Tecnologías:</h6>
