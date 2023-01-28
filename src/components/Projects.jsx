@@ -4,6 +4,7 @@ import image1 from '../assets/img/crm-parcial.png';
 import image2 from '../assets/img/citas-parcial.png';
 import image3 from '../assets/img/cotizado.png';
 import image4 from '../assets/img/gastos-intermedio.png';
+import image5 from '../assets/img/gastos-bebidas.png';
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import headerImg from "../assets/img/avtarprojects.png";
@@ -113,7 +114,7 @@ export const Projects = () => {
                             <div className="item align-items-center mt-2 m-auto justify-content-center align-items-center m-auto">
                                 <div className="projectcards card align-items-center m-auto">
                                     <p>BEBIDAS - React</p>
-                                    <img src={image4} alt="Frontrend project"/>
+                                    <img src={image5} alt="Frontrend project"/>
                                     <div className="technologies colin">
                                         <h6>Tecnologías:</h6>
                                         <p>
