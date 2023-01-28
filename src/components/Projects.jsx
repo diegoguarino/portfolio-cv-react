@@ -56,7 +56,7 @@ export const Projects = () => {
                                             React Router DOM, JSON Server - Loader, Action
                                         </p>
                                         <div className="icons">
-                                            <a href="https://crm-react-diegoguarinodev.netlify.app/clientes/nuevo" target="_blank"> <i className='bx bx-link-external' ></i></a>
+                                            <a href="https://crm-react-diegoguarinodev.netlify.app/" target="_blank"> <i className='bx bx-link-external' ></i></a>
                                             <a href="https://github.com/diegoguarino/crm-React" target="_blank"><i className='bx bxl-github'></i></a>
                                         </div>
                                     </div>

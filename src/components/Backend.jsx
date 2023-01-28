@@ -13,8 +13,6 @@ export const Backend = () => {
                         </div>
                     </div>
 
-                    {/* laravel */}
-
                     <div className="skills_data">
                         <i className='bx bxl-nodejs'></i>
 
@@ -31,7 +29,7 @@ export const Backend = () => {
                     </div>
 
                     <div className="skills_data">
-                        <i className='bx bxl-redux'></i>
+                        <i className='bx bxl-laravel7'></i>
                         <div>
                             <h5 className="skills_name">Laravel</h5>
                         </div>
