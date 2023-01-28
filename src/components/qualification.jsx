@@ -38,7 +38,7 @@ export const Qualification = () => {
                                 <h3 className="qualification_title">Programación Web Full Stack</h3>
                                 <span className="qualification_subtitle">DePC Suite</span>    
                                 <div className="qualification_calendar">
-                                    <i className="uil uil-calendar-alt"></i>May - Oct 2022
+                                    <i className="uil uil-calendar-alt"></i> May - Oct 2022
                                 </div>
                             </div>
                             <div>
@@ -57,7 +57,7 @@ export const Qualification = () => {
                                 <h3 className="qualification_title"> JavaScript + React + Hooks </h3>
                                 <span className="qualification_subtitle">Código Con Juan - Juan Pablo De la torre Valdez</span>
                                 <div className="qualification_calendar">
-                                    <i className="uil uil-calendar-alt"></i>Oct 2022 - presente
+                                    <i className="uil uil-calendar-alt"></i> Oct 2022 - presente
                                 </div>
                             </div>
                         </div>
@@ -67,7 +67,7 @@ export const Qualification = () => {
                                 <h3 className="qualification_title">React JS Intermedio</h3>
                                 <span className="qualification_subtitle">Open Bootcamp</span>
                                 <div className="qualification_calendar">
-                                    <i className="uil uil-calendar-alt"></i>Dic 2022 - presente
+                                    <i className="uil uil-calendar-alt"></i> Dic 2022 - presente
                                 </div>
                             </div>
                             <div>
@@ -84,7 +84,7 @@ export const Qualification = () => {
                                     <h3 className="qualification_title">Gerente Comercial</h3>
                                     <span className="qualification_subtitle">Autoservice y minimercado</span>
                                     <div className="qualification_calendar">
-                                       <i className="uil uil-calendar-alt"></i>2008 - 2022
+                                       <i className="uil uil-calendar-alt"></i> 2008 - 2022
                                     </div>
                                </div>
                                 <div>
