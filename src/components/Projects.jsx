@@ -72,7 +72,7 @@ export const Projects = () => {
                                         <div className="technologies">
                                             <h6>Tecnologías:</h6>
                                             <p>
-                                                React, API - Styled Components, Custom Hooks
+                                                React JS - Styled Components, Custom Hooks
                                             </p>
                                             <div className="icons">
                                                 <a href="https://criptos-react-diegoguarinodev.netlify.app/" target="_blank"> <i className='bx bx-link-external' ></i></a>
@@ -88,7 +88,7 @@ export const Projects = () => {
                                     <div className="technologies colin">
                                         <h6>Tecnologías:</h6>
                                         <p>
-                                            React JS, Vite TailwindCSS - Hooks, Events
+                                            React JS, Vite, TailwindCSS - Hooks, Events
                                         </p>
                                         <div className="icons">
                                             <a href="https://citas-react-diegoguarinodev.netlify.app/" target="_blank"> <i className='bx bx-link-external' ></i></a>
