@@ -31,9 +31,9 @@ export const Backend = () => {
                     </div>
 
                     <div className="skills_data">
-                        <i className='bx bxl-angular'></i>
+                        <i className='bx bxl-redux'></i>
                         <div>
-                            <h5 className="skills_name">Angular</h5>
+                            <h5 className="skills_name">Redux</h5>
                         </div>
                     </div>
 
