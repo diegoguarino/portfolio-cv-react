@@ -110,6 +110,22 @@ export const Projects = () => {
                                     </div>
                                 </div>
                             </div>
+                            <div className="item align-items-center mt-2 m-auto justify-content-center align-items-center m-auto">
+                                <div className="projectcards card align-items-center m-auto">
+                                    <p>BEBIDAS - React</p>
+                                    <img src={image4} alt="Frontrend project"/>
+                                    <div className="technologies colin">
+                                        <h6>Tecnologías:</h6>
+                                        <p>
+                                            React JS, React-Bootstrap - Context, API
+                                        </p>
+                                        <div className="icons">
+                                            <a href="https://buscador-bebidas-diegoguarinodev.netlify.app/" target="_blank"> <i className='bx bx-link-external' ></i></a>
+                                            <a href="https://github.com/diegoguarino/buscador-bebidas-React" target="_blank"><i className='bx bxl-github'></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                     </Carousel>
                 </div>
         </section>
