@@ -1,3 +1,5 @@
+import { FaLaravel } from "react-icons/fa";
+import { SiNextdotjs } from "react-icons/si";
 
 export const Backend = () => {
     return(
@@ -29,9 +31,16 @@ export const Backend = () => {
                     </div>
 
                     <div className="skills_data">
-                        <i className='bx bxl-laravel7'></i>
+                        <i className='bx'><FaLaravel></FaLaravel></i>
                         <div>
                             <h5 className="skills_name">Laravel</h5>
+                        </div>
+                    </div>
+
+                    <div className="skills_data">
+                        <i className='bx'><SiNextdotjs></SiNextdotjs></i>
+                        <div>
+                            <h5 className="skills_name">Next JS</h5>
                         </div>
                     </div>
 

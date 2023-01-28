@@ -21,12 +21,11 @@ export const Contact = () => {
     return(
         
         <section className="contact-section"id="Contact">
-            
                 <Row>
                     <Col col={12} xl={5} md={4} > 
                         <h5></h5>
                     </Col>   
-                    <Col col={12} xl={4} md={6} >   
+                    <Col col={12} xl={4} md={6}>   
                         <img src={headerImg}  width={200} height={250} alt="Header image"/>
 
                     </Col>
