@@ -5,7 +5,7 @@ import image2 from '../assets/img/citas-parcial.png';
 import image3 from '../assets/img/cotizado.png';
 import image4 from '../assets/img/gastos-intermedio.png';
 import image5 from '../assets/img/bebidas.png';
-import image6 from '../assets/img/clima.png';
+import image6 from '../assets/img/climas.png';
 import image7 from '../assets/img/seguros.png';
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
