@@ -5,6 +5,8 @@ import image2 from '../assets/img/citas-parcial.png';
 import image3 from '../assets/img/cotizado.png';
 import image4 from '../assets/img/gastos-intermedio.png';
 import image5 from '../assets/img/bebidas.png';
+import image6 from '../assets/img/clima.png';
+import image7 from '../assets/img/seguros.png';
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import headerImg from "../assets/img/avtarprojects.png";
@@ -123,6 +125,38 @@ export const Projects = () => {
                                         <div className="icons">
                                             <a href="https://buscador-bebidas-diegoguarinodev.netlify.app/" target="_blank"> <i className='bx bx-link-external' ></i></a>
                                             <a href="https://github.com/diegoguarino/buscador-bebidas-React" target="_blank"><i className='bx bxl-github'></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="item align-items-center mt-2 m-auto justify-content-center align-items-center m-auto">
+                                <div className="projectcards card align-items-center m-auto">
+                                    <p>CLIMA - React</p>
+                                    <img src={image6} alt="Frontrend project"/>
+                                    <div className="technologies colin">
+                                        <h6>Tecnologías:</h6>
+                                        <p>
+                                            React JS - Provider, API, Spinner
+                                        </p>
+                                        <div className="icons">
+                                            <a href="https://clima-app-diegoguarinodev.netlify.app/" target="_blank"> <i className='bx bx-link-external' ></i></a>
+                                            <a href="https://github.com/diegoguarino/clima-app-React" target="_blank"><i className='bx bxl-github'></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="item align-items-center mt-2 m-auto justify-content-center align-items-center m-auto">
+                                <div className="projectcards card align-items-center m-auto">
+                                    <p>SEGUROS - React</p>
+                                    <img src={image7} alt="Frontrend project"/>
+                                    <div className="technologies colin">
+                                        <h6>Tecnologías:</h6>
+                                        <p>
+                                            React JS - Algoritmo, useRef, Callback
+                                        </p>
+                                        <div className="icons">
+                                            <a href="https://cotizador-seguros-diegoguarinodev.netlify.app/" target="_blank"> <i className='bx bx-link-external' ></i></a>
+                                            <a href="https://github.com/diegoguarino/cotizador-de-seguros-React" target="_blank"><i className='bx bxl-github'></i></a>
                                         </div>
                                     </div>
                                 </div>
